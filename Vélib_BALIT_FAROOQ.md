@@ -6,7 +6,7 @@
 
 La répartition des vélos Vélib' est très inégale entre les villes d'Île-de-France. Paris se distingue avec 11 712 vélos, soit un nombre largement supérieur à celui des autres communes. Boulogne-Billancourt arrive en deuxième position avec 626 vélos, suivie d’Issy-les-Moulineaux (443) et de Saint-Denis (314). À l'autre extrémité du classement, Vitry-sur-Seine compte 187 vélos. Ces résultats montrent que l'offre Vélib' est principalement concentrée à Paris, tandis que les autres villes disposent d'un nombre de vélos nettement plus faible.
 
-### Fonctionnalité complémentaire
+### Info bulle
 
 Une infobulle a également été ajoutée. En passant la souris sur une ville, l'utilisateur peut visualiser la répartition des vélos disponibles entre vélos mécaniques et vélos électriques grâce à un graphique en anneau intégré à l'infobulle. Cette infobulle s'appuie sur un titre dynamique créé à l'aide d'une mesure et d'un titre conditionnel (fx), permettant d'afficher automatiquement le nom de la ville sélectionnée.
 
