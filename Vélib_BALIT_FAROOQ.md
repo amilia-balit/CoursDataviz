@@ -1,14 +1,14 @@
 ## Graphique 1
 
-![image](graphique1.png)
+![image](carte.png)
 
-## Les pourcentages ne totalisent pas 100%, alors qu’un camembert doit représenter l’ensemble des données. Cela rend donc les proportions trompeuses. Il faudrait corriger les pourcentages afin qu’ils totalisent 100% ou utiliser un autre type de graphique 
+## La répartition des vélos Vélib' est très inégale entre les villes d'Île-de-France. Paris se distingue avec 11 712 vélos, soit un nombre largement supérieur à celui des autres communes. Boulogne-Billancourt arrive en deuxième position avec 626 vélos, suivie d’Issy-les-Moulineaux (443) et de Saint-Denis (314). À l'autre extrémité du classement, Vitry-sur-Seine compte 187 vélos. Ces résultats montrent que l'offre Vélib' est principalement concentrée à Paris, tandis que les autres villes disposent d'un nombre de vélos nettement plus faible.
 ## Source : https://www.codeconquest.com/blog/12-bad-data-visualization-examples-explained/](https://opendata.paris.fr/explore/dataset/velib-disponibilite-en-temps-reel/dataviz/?disjunctive.is_renting&disjunctive.is_installed&disjunctive.is_returning&disjunctive.name&disjunctive.nom_arrondissement_communes)
 
 
 ## Graphique 2
 
-![image](graphique2.png)
+![image](camembert.png)
 
-## Les deux graphiques utilisent des échelles différentes, ce qui fausse la comparaison. Par exemple, les 3% de Gutierrez apparaissent plus hauts que les 25% de Petro, alors que son score est en réalité beaucoup plus faible. Cela peut donc donner l’impression que Gutierrez est plus populaire. Il faudrait utiliser la même échelle verticale sur les deux graphiques
+## Les bornettes représentent près des deux tiers des disponibilités du réseau Vélib' (63,73 %), avec 30 849 emplacements libres. Les vélos mécaniques constituent 22,88 % des disponibilités, soit 11 077 vélos, tandis que les vélos électriques représentent 13,39 %, avec 6 482 vélos disponibles.Cette répartition est cohérente avec le fonctionnement du réseau, qui doit conserver un nombre suffisant d'emplacements libres afin de permettre le dépôt des vélos dans les stations.
 ## Source : https://www.codeconquest.com/blog/12-bad-data-visualization-examples-explained/](https://opendata.paris.fr/explore/dataset/velib-disponibilite-en-temps-reel/dataviz/?disjunctive.is_renting&disjunctive.is_installed&disjunctive.is_returning&disjunctive.name&disjunctive.nom_arrondissement_communes)
